@@ -45,6 +45,8 @@ API (UI) → Controllers & endpoints
 
 
 `git clone https://github.com/IshaManerikar/restaurant-management-api.git`
+
+
 2️⃣ Configure database
 
 Create file:
