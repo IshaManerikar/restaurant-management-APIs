@@ -1,10 +1,10 @@
-# 🍽 Restaurant Management API
+ 🍽 Restaurant Management API
 
 A backend RESTful API built with ASP.NET Core following Clean Architecture principles to manage restaurants, dishes, and customer reviews.
 
 ---
 
-## 🚀 Tech Stack
+ 🚀 Tech Stack
 
 - ASP.NET Core Web API  
 - Entity Framework Core  
@@ -14,7 +14,7 @@ A backend RESTful API built with ASP.NET Core following Clean Architecture princ
 
 ---
 
-## 🏗 Architecture
+ 🏗 Architecture
 
 This project follows Clean Architecture:
 
@@ -28,7 +28,7 @@ API (UI) → Controllers & endpoints
 
 ---
 
-## 📌 Features
+ 📌 Features
 
 - Restaurant management (create, update, delete, view)
 - Dish management linked to restaurants
@@ -39,7 +39,7 @@ API (UI) → Controllers & endpoints
 
 ---
 
-## 🛠 Setup Instructions
+ 🛠 Setup Instructions
 
 ### 1️⃣ Clone repository
 
