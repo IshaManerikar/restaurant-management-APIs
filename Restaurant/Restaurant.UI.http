@@ -1,0 +1,18 @@
+﻿@Restaurant.UI_HostAddress = http://localhost:5128
+
+GET {{Restaurant.UI_HostAddress}}/api/restaurant/2/[Controller]
+
+###
+
+@id=0
+GET {{Restaurant.UI_HostAddress}}/api/restaurant/2
+
+###
+
+GET {{Restaurant.UI_HostAddress}}/api/restaurant?searchPhrase&PageNumber=1&PageSize=10&SortBy=Category&SortDirection=Ascending
+
+###
+
+GET {{Restaurant.UI_HostAddress}}/api/restaurant
+
+###

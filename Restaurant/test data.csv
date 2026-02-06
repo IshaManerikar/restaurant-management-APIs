@@ -1,0 +1,157 @@
+﻿MerchantRefID,Name,Registration,PAN,CIN,GST,WebsiteDetails,BankDetails,AuthSignatoryorBusinessOwner,AcquirerMapping,AcquirerReview,WebsiteCrawling,AMLMonitoring,DRCompanyData,MerchantVideoKYC,MerchantBankDetails,MerchantKYCDetails,MerchantOSINTReport,MerchantAllDetails
+186,"Satish Rathod",True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+185,"Vishwesh Manerkar",True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+184,"Mudawath prashanth nayak",True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+183,"Md Talib",True,True,True,True,True,True,True,2,1,1,1,1,1,1,1,1,1
+182,gautam,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+181,"Instanow Info Systems Private Limited",True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+180,"Satish Rathod",True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+179,Sejal,True,True,True,True,True,False,False,0,0,0,0,0,0,0,0,0,0
+178,Satish,True,True,True,True,True,True,True,2,0,0,0,0,0,0,0,0,0
+177,FamilyMan,True,True,True,True,True,True,True,1,1,1,1,1,1,1,1,1,1
+176,vinisha,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+175,"LKG INFOSOLUTIONS PRIVATE LIMITED",True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+174,Vinisha,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+173,Vi,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+170,Satish,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+169,Nitesh,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+168,Sohum,True,True,True,True,True,False,False,0,0,0,0,0,0,0,0,0,0
+167,"Satish test",True,True,True,True,False,False,False,0,0,0,0,0,0,0,0,0,0
+166,"Satish test",True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+165,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+164,PriyaDharshini,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+163,"Sejal Naik",True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+162,sejalNaik,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+161,sejalNaik,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+160,sejalNaik,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+159,sejalNaik,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+158,sejalNaik,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+157,sejalNaik,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+156,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+155,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+154,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+153,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+152,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+151,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+150,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+149,"Instanow Info Systems Private Limited",True,True,True,True,True,False,False,2,1,0,0,0,0,0,0,0,0
+147,Sohum,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+146,Monet,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+145,abc,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+144,Rose,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+143,Claude,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+142,Sohum,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+141,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+140,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+139,Test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+138,test,True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+137,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+136,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+135,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+134,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+133,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+132,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+131,"talib test",True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+130,"talib test",True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+129,"talib test",True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+128,"talib test",True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+127,"Rut Chodanker",True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+126,test,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+125,Satish,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+124,test,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+123,test,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+122,test,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+121,Test,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+120,Test,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+119,Test,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+117,"Satish Rathod",False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+116,"Satish Rathod",False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+114,"Satish Rathod",False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+113,Satish,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+112,"Rut Chodanker",True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+111,6lane@tiffincrane.com6lane@tiffincrane.com,True,True,True,True,True,False,False,0,0,0,0,0,0,0,0,0,0
+110,test,True,True,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+109,"Rut Chodanker",True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+108,@#$%%^^&,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+106,"MMAD Communications Pvt Ltd",False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+105,"DIGINADU GLOBAL TECHNOLOGY PRIVATE LIMITED",False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+104,"Instanow Info Systems Private Limited",True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+103,"Satish Rathod",True,True,True,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+102,"Satish Rathod",True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+101,Satish,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+100,Satish,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+99,Rutoooja,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+99,sejal,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+98,Satish,True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+97,Satish,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+96,Satish,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+95,Satish,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+94,Satish,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+92,Satish,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+91,Satish,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+90,Satish,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+88,Satish,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+87,Satish,True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+86,Satish,True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+85,Satish,True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+84,Satish,True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+83,"SEJAL NAIK",True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+82,"Satish Rathod Prod",True,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+81,Satish,True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+60,"Burraa Travel Services","","","","","","","",0,0,0,0,0,0,0,0,0,0
+59,"Extranet Digital Pvt Ltd ","","","","","","","",0,0,0,0,0,0,0,0,0,0
+58,Kasar,False,False,False,False,False,False,False,P,0,0,0,0,0,0,0,0,0
+57,Arunpandian,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+56,Vignesh,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+55,Surya,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+54,"Aravindan G",True,True,True,True,True,True,False,0,0,0,0,0,0,0,0,0,0
+53,Arul,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+52,Rutooja,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+51,Aravindan,True,False,False,False,False,False,True,0,0,0,0,0,0,0,0,0,0
+50,merchant18,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+49,merchant16,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+48,merchant15,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+47,merchant14,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+46,merchant13,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+45,merchant12,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+44,merchant11,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+43,merchant10,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+42,merchant9,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+41,merchant8,False,False,False,False,False,False,False,1,1,1,1,0,0,0,0,0,0
+40,merchant7,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+39,merchant5,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+38,merchant4,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+37,merchant1,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+35,"Mohammed Safidun",False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+34,"Alayam Salveer",False,False,False,False,False,False,False,1,1,0,0,0,0,0,0,0,0
+33,Sejal,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+33,Sejal,True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+32,RSoft,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+31,"One Radius",False,False,False,False,False,False,False,1,1,0,0,0,0,0,0,0,0
+30,"Forte Powerhouse LLP",True,True,True,True,True,True,True,1,1,0,0,0,0,0,0,0,0
+29,Asdasdasdada,True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+28,Rutooja,True,True,True,True,True,True,True,0,0,0,0,0,0,0,0,0,0
+27,"Sejal Naik",False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+25,"Sejal Naik",True,False,False,False,False,False,False,1,1,1,0,0,0,0,0,0,0
+24,Ajinkkyaaa,True,True,False,False,False,False,False,1,1,1,1,0,0,0,0,0,0
+23,Ashokaaa,True,False,False,False,False,False,False,1,0,0,0,0,0,0,0,0,0
+21,"Guna Shekaran",False,False,False,False,False,False,False,1,1,1,1,0,0,1,1,0,0
+20,"Priya Dharshini",False,False,False,False,False,False,False,1,1,1,0,0,0,0,0,0,0
+19,ssdadas,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+18,Araviubbnsd,False,False,False,False,False,False,False,1,18,18,18,0,0,0,0,0,0
+17,"Aravindan G",False,False,False,False,False,False,False,1,1,1,1,0,0,1,1,0,0
+16,"Aravindan G",False,False,False,False,False,False,False,1,1,1,1,0,0,0,0,0,0
+15,Maithili,False,False,False,False,False,False,False,1,1,1,1,0,0,1,1,0,0
+14,YatishNaik,True,True,True,True,True,True,True,1,1,1,1,1,0,1,1,1,0
+13,aakashnaik,True,True,True,True,True,True,True,1,1,1,1,0,0,1,0,0,0
+12,shreyaNaik,True,True,True,True,True,True,True,1,1,0,0,0,0,0,0,0,0
+11,Vinisha,True,False,False,False,False,False,False,1,1,0,0,0,0,0,0,0,0
+10,InstiFi,True,True,True,True,True,True,True,1,1,0,0,0,0,0,0,0,0
+8,shriyaNaik,True,True,True,True,True,True,True,1,1,0,0,0,0,0,0,0,0
+7,sejal,True,True,True,True,True,True,True,1,1,0,0,0,0,0,0,0,0
+6,Rutooja,True,True,True,True,True,True,True,1,1,1,1,0,0,0,0,0,0
+5,merchant0,True,True,True,True,True,True,False,0,0,0,0,0,0,0,0,0,0
+4,Rutoooja,False,False,False,False,False,False,False,1,1,0,0,0,0,0,0,0,0
+3,Gunasekatraj,True,True,True,True,True,True,False,1,1,1,1,0,0,0,0,0,0
+2,sejal,True,True,True,True,True,False,False,1,1,1,1,0,0,1,1,0,0
+1,Jiffy,False,False,False,False,False,False,False,2,1,1,1,1,0,1,1,1,1

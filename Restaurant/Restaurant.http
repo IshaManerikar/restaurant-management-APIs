@@ -1,0 +1,13 @@
+@Restaurant_HostAddress = http://localhost:5128
+
+@maxResult=4
+POST {{Restaurant_HostAddress}}/weatherforecast/generate?maxResult={{maxResult}}
+Content-Type: application/json
+
+{
+  "Count": 0,
+  "Min_Temperature": 20,
+  "Max_Temperature": 70
+}
+
+###

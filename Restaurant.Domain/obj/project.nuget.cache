@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bPEqChvRQUI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IshaManerikar\\Restaurant-API_2.0-master\\Restaurant.Domain\\Restaurant.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IshaManerikar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
